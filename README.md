@@ -45,3 +45,6 @@ Venta.cs: Define la clase Venta que representa una transacción de venta.
 Reporte.cs: Implementa la lógica para generar reportes de ventas.
 
 Program.cs: Contiene el punto de entrada de la aplicación y ejemplos de uso de las funcionalidades de la tienda.
+
+## Autor
+Bradley Presley Castañeda Paredes [GitHub] (https://github.com/bradparedes) [Linkedin] (https://linkedin.com/in/bradley-castañeda-1577b5236)
