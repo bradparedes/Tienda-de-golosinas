@@ -23,7 +23,12 @@ Este proyecto implementa una aplicación de tienda de golosinas en C#. Permite g
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tienda-de-golosinas.git
+   git clone https://github.com/bradparedes/Tienda-de-golosinas.git
+2. Abre el proyecto en Visual Studio 2022.
+
+3. Restaura los paquetes NuGet:
+   ```bash
+   dotnet restore
 
 ## Uso
 1. Compila y ejecuta el proyecto desde Visual Studio 2022.
